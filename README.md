@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Torktumlaren
 - 👀 I’m interested in games, AI, automation, simulation
-- 🌱 I’m currently learning Unreal Engine, electronics
+- 🌱 I’m currently learning Unreal Engine, C++
 - 💞️ I’m looking to collaborate on anything
 - 📫 Reach me at tisser44@gmail.com 
