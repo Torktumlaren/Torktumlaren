@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Torktumlaren
-- 👀 I’m interested in games, AI, automation, simulation
-- 🌱 I’m currently learning Unreal Engine, C++
+- 👀 I’m interested in games, modding, statistics
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on anything
-- 📫 Reach me at tisser44@gmail.com 
+- 📫 Reach me at tork@duck.com 
